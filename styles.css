@@ -1,1 +1,6 @@
-{background: ur("homeless/child-crying.jpg");}
+#wrapper {
+	background-image: url("child.jpg");
+	background-size: cover;
+	height: 800px;
+	width: 1200px;
+}
