@@ -1,23 +1,10 @@
-#wrapper {
+body {
 	background-image: url("child.jpg");
 	background-size: cover;
-	height: 900px;
-	width: 1800px;
-	display: block;
-
-div.container4 p {
-    margin: 300px auto;
-    text-align: center;
-
 }
+
+#hello1 {
+	margin: 300px auto;
+	text-align: center;
 }
-/*div.container4 p {*/
-    margin: 0;
-    background: yellow;
-    position: absolute;
-    top: -50%;
-    left: 50%;
-    bottom: -50%;
-    margin-right: -50%;
-    /*ßtransform: translate(-50%, -50%) }
-*/
+
