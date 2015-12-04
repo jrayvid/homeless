@@ -1,9 +1,29 @@
 body {
-	background-image: url("child.jpg");
+	background-image: url("homeless.jpg");
 	background-size: cover;
+	
+	background-repeat: no-repeat;
 }
 
 #hello1 {
-	margin: 300px auto;
+	margin: 300px 400px;
 	text-align: center;
+}
+h1 {
+	font-family: "big caslon";
+
+	font-size: 68px;
+	color: #14EF0A;
+	text-transform: lowercase;
+	}
+a {
+	text-decoration: none;
+}
+#enter {
+	display: block;
+	width: 174px;
+	height: 69;
+	margin: 300px 400px;
+	text-align: center;	
+	background: #00c775;
 }
