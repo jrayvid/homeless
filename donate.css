@@ -1,1 +1,90 @@
-empty
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: #fff;
+    text-align: right;
+    background: #000;
+    height: 80px;
+    padding: ;
+}
+
+li {
+    display: inline;
+/* text-align: right; */
+    padding: 0 23px;
+    font-size: 1.3em;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #000;
+    font-family: "helvetica neue";
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+/* padding: 0px 10px; */
+}
+
+.logo {
+    position: fixed;
+    left: 0;
+    top: 12px;
+    border: none;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.main {
+    width: 100%;
+}
+
+p {
+    color: #fff;
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+img {
+    width: 100%;
+    margin-top: 80px;
+}
+
+.donate1 {
+    border: 2px dotted #fff;
+    padding: 5px;
+}
+
+.donatebtn {
+    color: #fff;
+    border: 1px solid #fff;
+    margin-right: 5px;
+}
+
+.center {
+    text-align: center;
+    display: inline;
+}
+
+.donatebtn:hover {
+    background-color: red;
+}
+
+.donate1:hover {
+    background-color: red;
+}
+
+.paybtn {
+    color: #fff;
+}
+
+.donation {
+    text-align: center;
+    padding: 10px;
+}

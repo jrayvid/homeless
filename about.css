@@ -36,27 +36,24 @@ a {
     border: none;
 }
 
-img {
-    width: 100%;
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
 }
 
-.wrapper {
+.main {
     width: 100%;
-    margin: 0 auto;
 }
 
 p {
     color: #fff;
-    text-align: right;
-    margin-right: 206px;
-    font-size: 24px;
-    font-family: inherit;
-    margin-top: 15px;
+    text-align: justify;
+    font-size: 1.2em;
 }
 
-.button1 {
-    border: 2px solid #fff;
-    padding: 8px;
+img {
+    width: 100%;
+    margin-top: 80px;
 }
 
 .donate1 {
@@ -66,9 +63,4 @@ p {
 
 .donate1:hover {
     background-color: red;
-}
-
-.button1:hover {
-    background-color: red;
-}
 }
